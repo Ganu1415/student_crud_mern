@@ -40,7 +40,7 @@ This application allows users to create, read, update, and delete student record
 ---
 
 ## 📂 Project Structure
-
+```text
 student_crud_mern/
 │
 ├── client/ # React frontend
@@ -56,11 +56,13 @@ student_crud_mern/
 │
 ├── README.md
 └── package.json
+```
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
-#```bash
+```bash
 git clone https://github.com/Ganu1415/student_crud_mern.git
 cd student_crud_mern
+```
