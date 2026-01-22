@@ -1,4 +1,4 @@
-# Student CRUD Application (PERN Stack)
+# Student CRUD Application (MERN Stack)
 
 A full-stack **Student Management CRUD Application** built using **React.js**, **Node.js**, **Express.js**, and **PostgreSQL**.  
 This application allows users to create, read, update, and delete student records.
