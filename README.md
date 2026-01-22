@@ -15,7 +15,6 @@ This application allows users to create, read, update, and delete student record
 - CSS3
 - Bootstrap
 - Sweetalert2
--
 
 ### Backend
 
