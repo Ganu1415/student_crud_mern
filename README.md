@@ -43,19 +43,21 @@ This application allows users to create, read, update, and delete student record
 ```text
 student_crud_mern/
 │
-├── client/ # React frontend
+├── frontend/ # React frontend
 │ ├── src/
 │ ├── public/
 │ └── package.json
 │
-├── server/ # Node & Express backend
-│ ├── routes/
-│ ├── controllers/
+├── api/ # Node & Express backend
+│ ├── src/
+|     ├── routes/
+│     ├── controllers/
+|     └── routes/
 │ ├── db/
-│ └── index.js
-│
-├── README.md
-└── package.json
+| ├── server.js
+│ └── package.json
+| 
+└── README.md
 ```
 
 ## ⚙️ Installation & Setup
